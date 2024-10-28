@@ -9,6 +9,9 @@
 - Test ID : smartwave0377
 - Test PW : admin
 
+### 프로젝트 PDF
+  [TripSNS_PDF](https://github.com/RobotChalle/TripSNS_project/blob/DEV/Step7-%EC%97%AC%ED%96%89_SNS.pdf)
+
 ## 프로젝트 소개
 
 - 사용자들이 자신의 여행 경험을 공유하는 여행 테마 SNS 프로젝트입니다. 
